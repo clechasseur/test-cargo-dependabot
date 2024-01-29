@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 serde = "1.0.172"
 strum = ">= 0.13, < 0.26"
-syn = "1.0.99"
+syn = "2.0.48"
